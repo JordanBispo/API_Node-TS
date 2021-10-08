@@ -6,6 +6,16 @@
 		"name": "Jordan Rodrigo Souza Bispo",
 		"email": "jordanbispo.dev@gmail.com"
 	},
+	"keywords": [
+		"API",
+		"API rest",
+		"Node.js",
+		"template",
+		"typescrypt",
+		"project",
+		"node",
+		"example"
+	],
 	"main": "dist/server.js",
 	"scripts": {
 		"install": "npm i express dotenv bcrypt jsonwebtoken celebrate cors && npm i -D typescript tsc eslint jest ts-jest npm-watch qs @types/express @types/node @types/jest @typescript-eslint/eslint-plugin @typescript-eslint/parser",
